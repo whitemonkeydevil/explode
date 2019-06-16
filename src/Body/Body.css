@@ -1,0 +1,17 @@
+.body-container{
+    display: flex;
+    min-height: calc(100vh-80vh);
+}
+.img-container{
+    display: flex;
+    flex:3;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.desc-container{
+display: flex;
+flex: 1;
+flex-direction: column;
+}
